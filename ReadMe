@@ -1,0 +1,8 @@
+The code scrapes UpToDate.com directory to scan and find the keyword you input and downloads/saves the article as PDF.
+
+Setup:
+
+1) pip install selenium
+2) install driver of your choice (i.e. chromedriver.exe). Make sure it is in the same directory of the py file.
+3) Input your UpToDate.com email and password in the py file.
+4) Run the code
