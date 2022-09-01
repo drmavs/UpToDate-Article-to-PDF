@@ -80,7 +80,7 @@ finalTitle = re.search(finetunePattern, str(printLink)).group(0).replace('/conte
 
 time.sleep(1)
 print('\n>>> Saving as PDF.')
-time.sleep(1)
+time.sleep(2)
 
 
 # PDF is saved in the same directory as the py file. Target location may be modified.
